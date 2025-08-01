@@ -1,3 +1,3 @@
 ## CryptoRecap
 
-https://cryptorecap.info/
+https://bbnss.github.io/cryptorecap/
